@@ -54,6 +54,18 @@
 		{
 			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "DatasmithRuntime",
+			"Enabled": true
+		},
+		{
+			"Name": "CelestialVault",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGExtendedToolkit",
+			"Enabled": false
 		}
 	]
 }
