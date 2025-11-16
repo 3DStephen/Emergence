@@ -66,6 +66,10 @@
 		{
 			"Name": "PCGExtendedToolkit",
 			"Enabled": false
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
